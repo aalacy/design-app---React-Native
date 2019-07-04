@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/denningit/MyWork/Digiidrobe/ios/Pods/FirebaseDatabase/Firebase/Database/Constants/FConstants.m \
+  /Users/denningit/MyWork/Digiidrobe/ios/Pods/FirebaseDatabase/Firebase/Database/Constants/FConstants.h

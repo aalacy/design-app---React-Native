@@ -1,0 +1,1185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:1-57:12
+MERGED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/464dc9d3e7c300df3f3f14f82fe1e56f/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-86:12
+MERGED from [:react-native-maps] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-config:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.0.aar/8f2a77b4fd7591eba8a4b009d11cda16/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/82b7d7e60b753e9de81d6f11303b4ed6/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-invites:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.4.aar/135c7c665f2f6bb3151c8f8f1988d7f9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.2.aar/235c3fa5edc9f300591225513ba35eee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/87dc84610ca69424ee8d6f0e1c3f59be/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-google-signin] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fce0916320a2c0951637a6b84409ba28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/3638d15c679b8eba346fb818a921e114/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/b435da8eb1976de18ca330d94b4ce1a2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f9c4332a6fe2e1b7f8218d3cd69a257f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/96c0bc2ba2b0c687e667632130ed4f26/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/5f91f9e070cce589260eee32a82cdf94/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/728c18cf8b887bbd4502d70d2e95736e/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/0c53516287dc00e105192ebe823db323/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/37c3e700aa9ff5d52c9b9aa77ed826a5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/eacf72ca4f04cd58c54d9f2ee02541b1/AndroidManifest.xml:2:1-10:12
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-84:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/3ba25ec9b77deea39c1f13da2ee3df6a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/7fc5768bfda74e6266cddded64174285/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/91e14cfe3b5b4fa16a9e2f6b5ad1a3e6/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:17:1-29:12
+MERGED from [:react-native-fbsdk] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-gesture-handler] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/685a9a4bb4ffc63111c31dfc67073443/AndroidManifest.xml:2:1-15:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/d86c620a65d065ee1a63c8d4061c487d/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/f8a8251f26bba5d4f4fd441a0093bf95/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/7b5cff60ae2740861d928c5cbae57217/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/4e01b895e60cf19a1a2d3d07384c3731/AndroidManifest.xml:17:1-22:12
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/fb4ff9af18eca20f0013e67e890705da/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/a3ce4dc2ee3591e6df9c878de21b2a09/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/77919b169ed8269e4cff2bc4e3101e81/AndroidManifest.xml:17:1-22:12
+MERGED from [id.zelory:compressor:2.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/fe38f6ec7a929df0f984e566ccd95d8f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/5a8e900d3b67b588d2c1f271fa60d6f6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/8c8fd8560ec085d1596d08117eec1b66/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ffe6732237b30e2d968a13995c72fefe/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/0c055f7a18f7cc6bb5d16275c560db64/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/0272b0ef051bd8476a1811a9fd4fc552/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f45a13b826b1fb69079ad6f1d79617b0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dae4327d8da424b4cf94a47687117231/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4822e5d3b30e4ce90e00ff5797e28cad/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/de07a9abda4e230ceff87ff037971852/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/bd19bb1532beb2db5963e5c9efe9c88c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/276c029866d083a771b737aabaf38788/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a8e970ebd7d45ea0d58f9ec91e8d6ea4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9449bd60ffa8d78f3250f0d10c10deda/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c2f6199d22d953053d45893554cb83b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2f9eadb27d07096de6c0db23a0880896/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/01d4d7d6288d791392ab3b342b76df2b/AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/39004f37f31f0b9d5b8e187630196267/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/4f44de2a8ba877d8cddfa526b60522d1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/10b79016dea78a3292799550f8904437/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/76d2dceae3486109278a19f45b33d7b8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denningit/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/ef6975a544dd1da51dbc7af84c083e6e/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/fabbc346771f9d2698b66bf99081f628/AndroidManifest.xml:22:1-33:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/7de5c1865397b0bf5597c002c0de49c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/f74466e6ad7523ff91198c0bf6f0a806/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/5700dc4a721d7b1e56acc557895aec6a/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/86c2b2b6c0f567d0a240b9535d78e435/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/77979b450dca4a7a2ba89fd46471216c/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5ea23c31862e67a0b472afdb84e36bb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/759cd7051e88ca939cb5b9bd12578368/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/27e5f76f7ae03631550f50765581b084/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/07589e7a40bf5347257c1170413a5bf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9f109d7306dec30d47d4d0d3a0a06592/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/06a2f0449f71c7b78aeff152cb7f6f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/denningit/.gradle/caches/transforms-1/files-1.1/logback-android-1.1.1-9.aar/893cf94d18897a310190ca3c35f0dda7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/444503e3e1fdacd7e57e2fa8568d2eb8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/188c473faf5fb9d296d30a0c850cae56/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/98cc60fe9c7fcaf887f98d90f0163106/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/7ea809613307036611917daf7bb4d59a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/apktool-lib-1.4.4-5.aar/d5b3aa0e090fa4358a275a0a55da902f/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e53748f6a95181f2c0521baaeb1d9efd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7dbe12cf8f00f261e5c3bc332b53e23a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4711fdbe3ba03f4848722da433fbba2f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:1-57:12
+	package
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:2:5-40
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-67
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-67
+MERGED from [:react-native-maps] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/82b7d7e60b753e9de81d6f11303b4ed6/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/82b7d7e60b753e9de81d6f11303b4ed6/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/87dc84610ca69424ee8d6f0e1c3f59be/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/87dc84610ca69424ee8d6f0e1c3f59be/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:23:5-67
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-67
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:24:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/10b79016dea78a3292799550f8904437/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/10b79016dea78a3292799550f8904437/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/76d2dceae3486109278a19f45b33d7b8/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/76d2dceae3486109278a19f45b33d7b8/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denningit/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/ef6975a544dd1da51dbc7af84c083e6e/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denningit/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/ef6975a544dd1da51dbc7af84c083e6e/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/fabbc346771f9d2698b66bf99081f628/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/fabbc346771f9d2698b66bf99081f628/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/685a9a4bb4ffc63111c31dfc67073443/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/685a9a4bb4ffc63111c31dfc67073443/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:5-79
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:5-79
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:5-79
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:10:5-85
+	android:required
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:10:58-82
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:11:5-91
+	android:required
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:11:64-88
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:11:19-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:13:5-81
+MERGED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:15:5-55:19
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:5-84:19
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:5-84:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:27:5-39:19
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:27:5-39:19
+MERGED from [com.google.firebase:firebase-config:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.0.aar/8f2a77b4fd7591eba8a4b009d11cda16/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.0.aar/8f2a77b4fd7591eba8a4b009d11cda16/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-invites:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.4.aar/135c7c665f2f6bb3151c8f8f1988d7f9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-invites:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.4.aar/135c7c665f2f6bb3151c8f8f1988d7f9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.2.aar/235c3fa5edc9f300591225513ba35eee/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.2.aar/235c3fa5edc9f300591225513ba35eee/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/3638d15c679b8eba346fb818a921e114/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/3638d15c679b8eba346fb818a921e114/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/b435da8eb1976de18ca330d94b4ce1a2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/b435da8eb1976de18ca330d94b4ce1a2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f9c4332a6fe2e1b7f8218d3cd69a257f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f9c4332a6fe2e1b7f8218d3cd69a257f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/96c0bc2ba2b0c687e667632130ed4f26/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/96c0bc2ba2b0c687e667632130ed4f26/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/5f91f9e070cce589260eee32a82cdf94/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/5f91f9e070cce589260eee32a82cdf94/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/0c53516287dc00e105192ebe823db323/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/0c53516287dc00e105192ebe823db323/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/37c3e700aa9ff5d52c9b9aa77ed826a5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/37c3e700aa9ff5d52c9b9aa77ed826a5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/eacf72ca4f04cd58c54d9f2ee02541b1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/eacf72ca4f04cd58c54d9f2ee02541b1/AndroidManifest.xml:7:5-8:19
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:5-82:19
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:5-82:19
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/3ba25ec9b77deea39c1f13da2ee3df6a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/3ba25ec9b77deea39c1f13da2ee3df6a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:22:5-27:19
+MERGED from [:react-native-fbsdk] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/685a9a4bb4ffc63111c31dfc67073443/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/685a9a4bb4ffc63111c31dfc67073443/AndroidManifest.xml:13:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/d86c620a65d065ee1a63c8d4061c487d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/d86c620a65d065ee1a63c8d4061c487d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/f8a8251f26bba5d4f4fd441a0093bf95/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/f8a8251f26bba5d4f4fd441a0093bf95/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/7b5cff60ae2740861d928c5cbae57217/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/7b5cff60ae2740861d928c5cbae57217/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:28:5-35:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/fb4ff9af18eca20f0013e67e890705da/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/fb4ff9af18eca20f0013e67e890705da/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ffe6732237b30e2d968a13995c72fefe/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ffe6732237b30e2d968a13995c72fefe/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/0c055f7a18f7cc6bb5d16275c560db64/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/0c055f7a18f7cc6bb5d16275c560db64/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/0272b0ef051bd8476a1811a9fd4fc552/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/0272b0ef051bd8476a1811a9fd4fc552/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f45a13b826b1fb69079ad6f1d79617b0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f45a13b826b1fb69079ad6f1d79617b0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dae4327d8da424b4cf94a47687117231/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dae4327d8da424b4cf94a47687117231/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4822e5d3b30e4ce90e00ff5797e28cad/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4822e5d3b30e4ce90e00ff5797e28cad/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2f9eadb27d07096de6c0db23a0880896/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2f9eadb27d07096de6c0db23a0880896/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/01d4d7d6288d791392ab3b342b76df2b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/01d4d7d6288d791392ab3b342b76df2b/AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/39004f37f31f0b9d5b8e187630196267/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/39004f37f31f0b9d5b8e187630196267/AndroidManifest.xml:7:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/10b79016dea78a3292799550f8904437/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/10b79016dea78a3292799550f8904437/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/76d2dceae3486109278a19f45b33d7b8/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/76d2dceae3486109278a19f45b33d7b8/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denningit/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/ef6975a544dd1da51dbc7af84c083e6e/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denningit/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/ef6975a544dd1da51dbc7af84c083e6e/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/fabbc346771f9d2698b66bf99081f628/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/fabbc346771f9d2698b66bf99081f628/AndroidManifest.xml:31:5-20
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/5700dc4a721d7b1e56acc557895aec6a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/5700dc4a721d7b1e56acc557895aec6a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/86c2b2b6c0f567d0a240b9535d78e435/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/86c2b2b6c0f567d0a240b9535d78e435/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/77979b450dca4a7a2ba89fd46471216c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/77979b450dca4a7a2ba89fd46471216c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:28:5-51:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:11:5-16:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/188c473faf5fb9d296d30a0c850cae56/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/188c473faf5fb9d296d30a0c850cae56/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/7ea809613307036611917daf7bb4d59a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/7ea809613307036611917daf7bb4d59a/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/d86c620a65d065ee1a63c8d4061c487d/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:18:7-39
+	android:icon
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:19:7-41
+	android:allowBackup
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:17:7-33
+	android:theme
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:20:7-38
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:16:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:22:7-105
+	android:value
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:22:64-103
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:22:18-63
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:24:8-26:68
+	android:value
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:26:11-66
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:25:11-56
+activity#com.digiidrobe.digiidrobe.MainActivity
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:28:7-37:18
+	android:label
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:30:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:32:9-51
+	android:configChanges
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:31:9-79
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:29:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:33:9-36:25
+action#android.intent.action.MAIN
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:34:13-65
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:34:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:35:23-70
+meta-data#io.fabric.ApiKey
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:39:7-42:9
+	android:value
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:41:9-65
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:40:9-40
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:44:7-84
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:44:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:45:7-49:17
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:45:16-89
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:46:9-48:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:47:11-72
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:47:19-69
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:50:7-54:17
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:50:16-90
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:51:9-53:25
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:52:11-74
+	android:name
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:52:19-71
+uses-sdk
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/464dc9d3e7c300df3f3f14f82fe1e56f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/464dc9d3e7c300df3f3f14f82fe1e56f/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-27:41
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-27:41
+MERGED from [:react-native-maps] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.0.aar/8f2a77b4fd7591eba8a4b009d11cda16/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.0.aar/8f2a77b4fd7591eba8a4b009d11cda16/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/82b7d7e60b753e9de81d6f11303b4ed6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/82b7d7e60b753e9de81d6f11303b4ed6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-invites:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.4.aar/135c7c665f2f6bb3151c8f8f1988d7f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-invites:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.4.aar/135c7c665f2f6bb3151c8f8f1988d7f9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.2.aar/235c3fa5edc9f300591225513ba35eee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.2.aar/235c3fa5edc9f300591225513ba35eee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/87dc84610ca69424ee8d6f0e1c3f59be/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/87dc84610ca69424ee8d6f0e1c3f59be/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-google-signin] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fce0916320a2c0951637a6b84409ba28/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fce0916320a2c0951637a6b84409ba28/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/3638d15c679b8eba346fb818a921e114/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/3638d15c679b8eba346fb818a921e114/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/b435da8eb1976de18ca330d94b4ce1a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/b435da8eb1976de18ca330d94b4ce1a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f9c4332a6fe2e1b7f8218d3cd69a257f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f9c4332a6fe2e1b7f8218d3cd69a257f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/96c0bc2ba2b0c687e667632130ed4f26/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/96c0bc2ba2b0c687e667632130ed4f26/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/5f91f9e070cce589260eee32a82cdf94/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/5f91f9e070cce589260eee32a82cdf94/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/728c18cf8b887bbd4502d70d2e95736e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/728c18cf8b887bbd4502d70d2e95736e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/0c53516287dc00e105192ebe823db323/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/0c53516287dc00e105192ebe823db323/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/37c3e700aa9ff5d52c9b9aa77ed826a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/37c3e700aa9ff5d52c9b9aa77ed826a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/eacf72ca4f04cd58c54d9f2ee02541b1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/eacf72ca4f04cd58c54d9f2ee02541b1/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/3ba25ec9b77deea39c1f13da2ee3df6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/3ba25ec9b77deea39c1f13da2ee3df6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/7fc5768bfda74e6266cddded64174285/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/7fc5768bfda74e6266cddded64174285/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/91e14cfe3b5b4fa16a9e2f6b5ad1a3e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/91e14cfe3b5b4fa16a9e2f6b5ad1a3e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-fbsdk] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-gesture-handler] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/685a9a4bb4ffc63111c31dfc67073443/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/685a9a4bb4ffc63111c31dfc67073443/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/d86c620a65d065ee1a63c8d4061c487d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/d86c620a65d065ee1a63c8d4061c487d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/f8a8251f26bba5d4f4fd441a0093bf95/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/f8a8251f26bba5d4f4fd441a0093bf95/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/7b5cff60ae2740861d928c5cbae57217/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/7b5cff60ae2740861d928c5cbae57217/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/4e01b895e60cf19a1a2d3d07384c3731/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/4e01b895e60cf19a1a2d3d07384c3731/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/fb4ff9af18eca20f0013e67e890705da/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/fb4ff9af18eca20f0013e67e890705da/AndroidManifest.xml:5:5-43
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/a3ce4dc2ee3591e6df9c878de21b2a09/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/a3ce4dc2ee3591e6df9c878de21b2a09/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/77919b169ed8269e4cff2bc4e3101e81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/77919b169ed8269e4cff2bc4e3101e81/AndroidManifest.xml:20:5-44
+MERGED from [id.zelory:compressor:2.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/fe38f6ec7a929df0f984e566ccd95d8f/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/fe38f6ec7a929df0f984e566ccd95d8f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/5a8e900d3b67b588d2c1f271fa60d6f6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/5a8e900d3b67b588d2c1f271fa60d6f6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/8c8fd8560ec085d1596d08117eec1b66/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/8c8fd8560ec085d1596d08117eec1b66/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ffe6732237b30e2d968a13995c72fefe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/ffe6732237b30e2d968a13995c72fefe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/0c055f7a18f7cc6bb5d16275c560db64/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/0c055f7a18f7cc6bb5d16275c560db64/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/0272b0ef051bd8476a1811a9fd4fc552/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/0272b0ef051bd8476a1811a9fd4fc552/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f45a13b826b1fb69079ad6f1d79617b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/f45a13b826b1fb69079ad6f1d79617b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dae4327d8da424b4cf94a47687117231/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/dae4327d8da424b4cf94a47687117231/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4822e5d3b30e4ce90e00ff5797e28cad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4822e5d3b30e4ce90e00ff5797e28cad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/de07a9abda4e230ceff87ff037971852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/de07a9abda4e230ceff87ff037971852/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/bd19bb1532beb2db5963e5c9efe9c88c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/bd19bb1532beb2db5963e5c9efe9c88c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/276c029866d083a771b737aabaf38788/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/276c029866d083a771b737aabaf38788/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a8e970ebd7d45ea0d58f9ec91e8d6ea4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a8e970ebd7d45ea0d58f9ec91e8d6ea4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9449bd60ffa8d78f3250f0d10c10deda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9449bd60ffa8d78f3250f0d10c10deda/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c2f6199d22d953053d45893554cb83b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c2f6199d22d953053d45893554cb83b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2f9eadb27d07096de6c0db23a0880896/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/2f9eadb27d07096de6c0db23a0880896/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/39004f37f31f0b9d5b8e187630196267/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/39004f37f31f0b9d5b8e187630196267/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/4f44de2a8ba877d8cddfa526b60522d1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/4f44de2a8ba877d8cddfa526b60522d1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/10b79016dea78a3292799550f8904437/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/10b79016dea78a3292799550f8904437/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/76d2dceae3486109278a19f45b33d7b8/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/denningit/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/76d2dceae3486109278a19f45b33d7b8/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denningit/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/ef6975a544dd1da51dbc7af84c083e6e/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/denningit/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/ef6975a544dd1da51dbc7af84c083e6e/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/fabbc346771f9d2698b66bf99081f628/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/fabbc346771f9d2698b66bf99081f628/AndroidManifest.xml:27:5-43
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/7de5c1865397b0bf5597c002c0de49c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/7de5c1865397b0bf5597c002c0de49c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/f74466e6ad7523ff91198c0bf6f0a806/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/f74466e6ad7523ff91198c0bf6f0a806/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/5700dc4a721d7b1e56acc557895aec6a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/5700dc4a721d7b1e56acc557895aec6a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/86c2b2b6c0f567d0a240b9535d78e435/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/86c2b2b6c0f567d0a240b9535d78e435/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/77979b450dca4a7a2ba89fd46471216c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/77979b450dca4a7a2ba89fd46471216c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5ea23c31862e67a0b472afdb84e36bb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5ea23c31862e67a0b472afdb84e36bb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/759cd7051e88ca939cb5b9bd12578368/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/759cd7051e88ca939cb5b9bd12578368/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/27e5f76f7ae03631550f50765581b084/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/27e5f76f7ae03631550f50765581b084/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/07589e7a40bf5347257c1170413a5bf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/07589e7a40bf5347257c1170413a5bf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9f109d7306dec30d47d4d0d3a0a06592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9f109d7306dec30d47d4d0d3a0a06592/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/06a2f0449f71c7b78aeff152cb7f6f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/06a2f0449f71c7b78aeff152cb7f6f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/denningit/.gradle/caches/transforms-1/files-1.1/logback-android-1.1.1-9.aar/893cf94d18897a310190ca3c35f0dda7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/denningit/.gradle/caches/transforms-1/files-1.1/logback-android-1.1.1-9.aar/893cf94d18897a310190ca3c35f0dda7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/444503e3e1fdacd7e57e2fa8568d2eb8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/444503e3e1fdacd7e57e2fa8568d2eb8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/188c473faf5fb9d296d30a0c850cae56/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/188c473faf5fb9d296d30a0c850cae56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/98cc60fe9c7fcaf887f98d90f0163106/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/98cc60fe9c7fcaf887f98d90f0163106/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/7ea809613307036611917daf7bb4d59a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/7ea809613307036611917daf7bb4d59a/AndroidManifest.xml:4:5-43
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/apktool-lib-1.4.4-5.aar/d5b3aa0e090fa4358a275a0a55da902f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/apktool-lib-1.4.4-5.aar/d5b3aa0e090fa4358a275a0a55da902f/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e53748f6a95181f2c0521baaeb1d9efd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e53748f6a95181f2c0521baaeb1d9efd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7dbe12cf8f00f261e5c3bc332b53e23a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7dbe12cf8f00f261e5c3bc332b53e23a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4711fdbe3ba03f4848722da433fbba2f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4711fdbe3ba03f4848722da433fbba2f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/5a8e900d3b67b588d2c1f271fa60d6f6/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:5-68
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:24:5-68
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-68
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:5-79
+MERGED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/82b7d7e60b753e9de81d6f11303b4ed6/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.4.aar/82b7d7e60b753e9de81d6f11303b4ed6/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/87dc84610ca69424ee8d6f0e1c3f59be/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.4.aar/87dc84610ca69424ee8d6f0e1c3f59be/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:22:5-79
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-79
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-76
+uses-permission#android.hardware.location
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-65
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-65
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:22-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+MERGED from [:react-native-maps] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:5-81
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-89
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-89
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:22-86
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:5-94
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:5-94
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:5-94
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:22-91
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:5-81
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-81
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:22-78
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:5-77
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:5-77
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:5-77
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:5-78
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:5-78
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:5-78
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:5-80
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:5-80
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:22-77
+service#com.marianhello.bgloc.sync.SyncService
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:9-54:19
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:9-52:19
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:9-52:19
+	android:process
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:46:13-36
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:44:13-66
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:13-49:29
+action#android.content.SyncAdapter
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:48:17-70
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:48:25-67
+meta-data#android.content.SyncAdapter
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:51:13-53:55
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-51:55
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-51:55
+	android:resource
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:53:17-52
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:52:17-59
+service#com.marianhello.bgloc.sync.AuthenticatorService
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:55:9-63:19
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:53:9-61:19
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:53:9-61:19
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:55:18-80
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:56:13-58:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:57:17-80
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:57:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:60:13-62:57
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:58:13-60:57
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:58:13-60:57
+	android:resource
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:62:17-54
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:61:17-69
+provider#com.marianhello.bgloc.data.provider.LocationContentProvider
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:65:9-69:39
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:63:9-67:39
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:63:9-67:39
+	android:authorities
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:67:13-75
+	android:syncable
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:69:13-36
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:66:13-87
+service#com.marianhello.bgloc.LocationServiceImpl
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:71:9-74:40
+	android:enabled
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:73:13-35
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:72:13-69
+receiver#com.marianhello.bgloc.BootCompletedReceiver
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:76:9-83:20
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:74:9-81:20
+MERGED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:74:9-81:20
+	android:enabled
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:78:13-35
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:77:13-71
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:80:13-82:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:81:17-79
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/lib/build/intermediates/manifests/full/debug/AndroidManifest.xml:81:25-76
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:34:9-38:19
+MERGED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:34:9-38:19
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/218429baa148b94fdc71c42354cfff23/AndroidManifest.xml:37:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:23:5-98
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:23:22-95
+provider#com.google.firebase.perf.provider.FirebasePerfProvider
+ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:28:9-32:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:30:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:31:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.perf.component.FirebasePerfRegistrar
+ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.0.aar/710ef7ae1877d8acc76638ce5434c1a9/AndroidManifest.xml:36:17-119
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/26223e0ab3e234ba2c954fa6d094bc76/AndroidManifest.xml:32:27-73
+meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
+ADDED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:16.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.2.aar/63441e9d541b6bba858129a32407566a/AndroidManifest.xml:15:17-111
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.2.aar/00a4319ad49adca7d05df56bbff5ac2b/AndroidManifest.xml:16:17-111
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/832d667a2da05a483107ed8ce8ec19c8/AndroidManifest.xml:34:13-89
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/96c0bc2ba2b0c687e667632130ed4f26/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/96c0bc2ba2b0c687e667632130ed4f26/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/96c0bc2ba2b0c687e667632130ed4f26/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/65572fe0ec16efb02dbd90182377d765/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/710d0005c7ac00a8173ce1aa35b5e6af/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/408b821819a6f0c0a2b4fff0c6edb8a7/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/08c2d2949d0533a7cccd18496005ad25/AndroidManifest.xml:51:13-77
+service#com.marianhello.bgloc.service.LocationServiceImpl
+ADDED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:69:9-72:40
+	android:enabled
+		ADDED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:71:13-35
+	android:exported
+		ADDED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from [:react-native-mauron85-background-geolocation-common] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-mauron85-background-geolocation/android/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:70:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/6ff14ff88451f3f9bde69815e5630a6b/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/84d0916f08fc64ebfd135cf3ac238756/AndroidManifest.xml:24:13-79
+provider#android.support.v4.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/denningit/MyWork/Digiidrobe/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-60
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/e46d20737db7d437c92b1e7856cfbae5/AndroidManifest.xml:13:13-75
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/aae3fd9999290885165ffaea49c64394/AndroidManifest.xml:34:19-64
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/denningit/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/3f8dc7926c9824acc17731981bf4d9fa/AndroidManifest.xml:50:22-86
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/fb4ff9af18eca20f0013e67e890705da/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4822e5d3b30e4ce90e00ff5797e28cad/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/4822e5d3b30e4ce90e00ff5797e28cad/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/fb4ff9af18eca20f0013e67e890705da/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/fb4ff9af18eca20f0013e67e890705da/AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/denningit/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/bddfca61405b63f815e00caf547c20fd/AndroidManifest.xml:30:13-65
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/denningit/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/eb9807dbcb4600d003a27503434de289/AndroidManifest.xml:11:13-77
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/denningit/MyWork/Digiidrobe/android/app/src/main/AndroidManifest.xml:1:1-57:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/6d716d77cd16e5524e418a287cde2485/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/denningit/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/62685eac59208e4d674ff991f928febe/AndroidManifest.xml:48:25-92
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/denningit/.gradle/caches/transforms-1/files-1.1/android-permissions-0.1.7.aar/b27e6ab79a216db5dbec95ace2ce6eed/AndroidManifest.xml:13:13-83

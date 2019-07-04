@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "fae77a888511c0a48cc30ecd2114be2f",
+      "css": "ic_lock_outline",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M380.9 761.9A95.2 95.2 0 1 0 285.7 666.7 95.5 95.5 0 0 0 380.9 761.9ZM666.7 333.3H619.1V238.1A238.1 238.1 0 0 0 142.9 238.1V333.3H95.2A95.5 95.5 0 0 0 0 428.6V904.8A95.5 95.5 0 0 0 95.2 1000H666.7A95.5 95.5 0 0 0 761.9 904.8V428.6A95.5 95.5 0 0 0 666.7 333.3ZM233.3 238.1A147.6 147.6 0 0 1 528.6 238.1V333.3H233.3ZM666.7 904.8H95.2V428.6H666.7Z",
+        "width": 762
+      },
+      "search": [
+        "ic_lock_outline"
+      ]
+    }
+  ]
+}

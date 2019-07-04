@@ -1,0 +1,52 @@
+{
+  "name": "Digiidrobe",
+  "version": "5.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "fs-extra": "^6.0.1",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.48.0",
+    "react-test-renderer": "16.6.3",
+    "replace-in-file": "^3.4.0"
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "android": "node node_modules/react-native/local-cli/cli.js run-android",
+    "android:release": "node node_modules/react-native/local-cli/cli.js run-android --variant=release",
+    "ios": "node node_modules/react-native/local-cli/cli.js run-ios",
+    "apk": "cd android && ./gradlew assembleRelease",
+    "rename": "node ./bin/rename.js",
+    "test": "jest",
+    "postinstall": "./node_modules/react-native-maps/enable-google-maps ./ios"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.23.0",
+    "react": "16.5.0",
+    "react-native": "0.57.1",
+    "react-native-actionsheet": "^2.4.2",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^1.0.0-beta7",
+    "react-native-fbsdk": "^0.8.0",
+    "react-native-firebase": "^5.1.1",
+    "react-native-geocoder": "^0.5.0",
+    "react-native-gesture-handler": "^1.0.12",
+    "react-native-google-signin": "^1.0.2",
+    "react-native-image-crop-picker": "^0.21.3",
+    "react-native-image-zoom-viewer": "^2.2.24",
+    "react-native-maps": "^0.22.1",
+    "react-native-mauron85-background-geolocation": "^0.5.0-alpha.50",
+    "react-native-storage": "^1.0.0-beta.1",
+    "react-native-svg": "^8.0.8",
+    "react-native-swiper": "^1.5.14",
+    "react-native-vector-icons": "^6.1.0",
+    "react-navigation": "^3.0.6",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">289176123550-qk0tibkdjci6m1j50v5mpvc88hpqle8i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://digiidrobe-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">289176123550</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhMcU8uBxyPDYiOnJngtEQphy_v8pCot0</string>
+    <string name="google_app_id" translatable="false">1:289176123550:android:90a2dc9340fb82f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhMcU8uBxyPDYiOnJngtEQphy_v8pCot0</string>
+    <string name="google_storage_bucket" translatable="false">digiidrobe-app.appspot.com</string>
+    <string name="project_id" translatable="false">digiidrobe-app</string>
+</resources>

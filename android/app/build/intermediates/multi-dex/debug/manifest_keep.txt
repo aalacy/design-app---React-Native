@@ -1,0 +1,3 @@
+# Referenced at /Users/denningit/MyWork/Digiidrobe/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:65
+-keep class com.digiidrobe.digiidrobe.MainApplication { <init>(...); }
+

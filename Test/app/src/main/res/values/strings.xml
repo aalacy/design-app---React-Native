@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="title_today">today</string>
+    <string name="title_video">video</string>
+    <string name="title_baby">baby</string>
+    <string name="title_me">me</string>
+    <string name="title_more">more</string>
+</resources>
